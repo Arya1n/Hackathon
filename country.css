@@ -1,0 +1,16 @@
+main{
+    height: 15%;
+    width: 50%;
+    align-content: center;
+    margin-left: 25%;
+    background: gradient(top-right ,#f8f3bf ,white);
+}
+
+header h2{
+    margin-left: 40%;
+    padding-top: 5vh;
+}
+.navbar{
+    background: light;
+    word-spacing: me-auto,mb-2,mb-lg-0,me-2;
+}
